@@ -149,6 +149,28 @@ Use o gerenciador de pacotes do projeto (ex.: `pnpm`).
 
 O deploy é realizado automaticamente via Vercel a cada merge na branch `main`.
 
+Ai, n sei se é coincidência, mas no codex normalmente meus promps são assim
+ 
+---
+
+## 💻 Uso de Prompt
+ 
+Regras obrigatórias:
+
+- Utilize nomes em inglês.
+- Aproveite o código que já está criado.
+- Utilize a pasta "/src/@types" pra armazenar types, 
+- Utilize a pasta "/src/@interface para armazenar interfaces
+- Utilize a pasta "/src/@enums para armazenar enums 
+- Utilize a pasta "/src/common/constants" para armazenar as constants
+- Caso o componente permita, segmente-o em menores
+- Utilize as boas práticas de codificação e de Next.js
+- Sigas as melhores práticas de UI/UXs
+- Altere somente oq for necessário
+ 
+Contexto
+	- <descrição da tarefa>
+ 
 ---
 
 ## 🧾 Licença
